@@ -26,4 +26,4 @@ I love building smart, secure, and user-friendly digital tools.
 ---
 
 📫 Reach me: amulyagj77@gmail.com  
-🔗 Portfolio: [Add your Notion link here]
+🔗 Portfolio: 
