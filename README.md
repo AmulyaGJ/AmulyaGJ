@@ -25,5 +25,11 @@ I love building smart, secure, and user-friendly digital tools.
 
 ---
 
+### 📊 GitHub Stats
+
+![AmulyaGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmulyaGJ&show_icons=true&theme=radical)
+
+---
+
 📫 Reach me: amulyagj77@gmail.com  
 🔗 Portfolio: 
