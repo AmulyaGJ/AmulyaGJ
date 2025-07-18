@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Amulya GJ
 
-<!--
-**AmulyaGJ/AmulyaGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | 💻 AI & Ethical Hacking Enthusiast | 🌐 Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+I'm currently learning AI tools like TensorFlow, LangChain, and OpenAI API, and practicing ethical hacking with Burp Suite, Nmap, and Python scripts.  
+I love building smart, secure, and user-friendly digital tools.
+
+---
+
+### 🛠 Skills
+- *AI & ML*: Python, Keras, Scikit-learn, LangChain  
+- *Cybersecurity*: Burp Suite, Wireshark, Nmap, OWASP  
+- *Web Dev*: HTML, CSS, Tailwind, JavaScript  
+- *UI/UX*: Figma, Notion, Wireframing
+
+---
+
+### 💼 Projects
+- AI Friend App – Smart task assistant  
+- Women Hub – Safe emotional journal & AI mentor  
+- Hacking Practice – DVWA, TryHackMe & Python scripts
+
+---
+
+📫 Reach me: amulyagj77@gmail.com  
+🔗 Portfolio: [Add your Notion link here]
