@@ -11,9 +11,9 @@ I love building smart, secure, and user-friendly digital tools.
 ---
 
 ### 🛠 Skills
-- *AI & ML*: Python, Keras, Scikit-learn, LangChain  
-- *Cybersecurity*: Burp Suite, Wireshark, Nmap, OWASP  
-- *Web Dev*: HTML, CSS, Tailwind, JavaScript  
+- *AI & ML*: Python, Scikit-learn,  
+- *Cybersecurity*: Python Scripting, OWASP  
+- *Web Dev*: HTML, CSS, JavaScript  
 - *UI/UX*: Figma, Notion, Wireframing
 
 ---
