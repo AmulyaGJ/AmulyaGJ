@@ -10,7 +10,7 @@ I love building smart, secure, and user-friendly digital tools.
 
 ---
 
-### 🛠 Skills
+### 🛠 Skills In Progress 
 - *AI & ML*: Python, Scikit-learn,  
 - *Cybersecurity*: Python Scripting, OWASP  
 - *Web Dev*: HTML, CSS, JavaScript  
@@ -19,9 +19,9 @@ I love building smart, secure, and user-friendly digital tools.
 ---
 
 ### 💼 Projects
-- AI Friend App – Smart task assistant (ongoing)
-- Women Hub – Safe emotional journal & AI mentor (upcoming)
-- Hacking Practice – DVWA, TryHackMe & Python scripts (ongoing)
+- AI Friend App – Smart task assistant (in progress)
+- Women Hub – Safe emotional journal & AI mentor (planned)
+- Hacking Practice – DVWA, TryHackMe & Python scripts (in progress)
 
 ---
 
