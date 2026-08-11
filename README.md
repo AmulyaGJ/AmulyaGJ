@@ -8,7 +8,7 @@
 ---
 
 ## About Me
-I am a Computer Science student interested in Artificial Intelligence, Web Development, and Cybersecurity.  
+I am a Computer Science student interested in Full Stack Development, Artificial Intelligence, Web Development, and Cybersecurity.  
 I enjoy building smart, secure, and user-friendly applications.  
 Currently learning AI tools, ethical hacking, and full stack web development.
 
@@ -22,22 +22,13 @@ Currently learning AI tools, ethical hacking, and full stack web development.
 - CSS
 
 *AI & Machine Learning*
-- Scikit-learn
-- TensorFlow (Learning)
+- REST APIs
 - OpenAI API
-- LangChain (Learning)
 
 *Web Development*
 - HTML, CSS, JavaScript
 - Responsive Design
 - CRUD Applications
-
-*Cybersecurity*
-- Burp Suite
-- Nmap
-- OWASP Top 10
-- DVWA
-- Python Security Scripts
 
 *UI/UX*
 - Figma
@@ -49,6 +40,7 @@ Currently learning AI tools, ethical hacking, and full stack web development.
 - GitHub
 - VS Code
 - Eclipse
+- IntelliJ IDEA
 - MySQL
 
 ---
@@ -66,6 +58,8 @@ A web-based blogging system where multiple users can register, log in, and creat
 
 ###  UI/UX Web Applications
 Collection of responsive front-end web applications focusing on UI/UX design, layouts, animations, forms, and dashboards.
+
+###  
 
 ---
 
@@ -94,7 +88,7 @@ Collection of responsive front-end web applications focusing on UI/UX design, la
 ## Contact Me
 - 📧 Email: amulyagj77@gmail.com
 - 💻 GitHub: https://github.com/AmulyaGJ
-- 🔗 LinkedIn: -
+- 🔗 LinkedIn: - https://www.linkedin.com/in/amulyagj77
 - 🌐 Portfolio: -
 
 ---
