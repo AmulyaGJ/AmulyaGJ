@@ -1,4 +1,4 @@
-**Hi, I'm Amulya GJ**
+# **Hi, I'm Amulya GJ**
 
  Computer Science Engineering Student  
  AI & Machine Learning Enthusiast  
