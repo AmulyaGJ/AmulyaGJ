@@ -85,7 +85,7 @@ Java-based event management application designed to manage event registrations, 
 ---
 
 ##  GitHub Stats
-##![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmulyaGJ&show_icons=true&theme=radical)
+##! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=AmulyaGJ&show_icons=true&theme=radical)
 
 ---
 
