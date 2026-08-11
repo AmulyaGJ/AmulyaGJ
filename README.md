@@ -59,7 +59,11 @@ A web-based blogging system where multiple users can register, log in, and creat
 ###  UI/UX Web Applications
 Collection of responsive front-end web applications focusing on UI/UX design, layouts, animations, forms, and dashboards.
 
-###  
+### Jarvis AI Assistant 
+Voice-controlled AI assistant developed using Python and AI APIs to open applications, search the web, execute voice commands, and perform basic automation tasks.
+
+### Event Management System 
+Java-based event management application designed to manage event registrations, participant details, scheduling, and event records using Servlets, JSP, JDBC, and MySQL.
 
 ---
 
